@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am Ethan De Vera an international student studying Web Design in DMIT, Northern Alberta Institute of Technology(NAIT)
+I am Ethan De Vera, an international student studying Web Design in DMIT, Northern Alberta Institute of Technology(NAIT)
 
-aiming to graduate and use the skills and knowledge I learned in my program to contribute in the working world.
+Aiming to graduate and use the skills and knowledge I learned in my program to contribute in the working world.
 
 I enjoy designing and coding websites for myself and others with programs like VS code. 
 
