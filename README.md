@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Ethan De Vera an international student studying Web Design in DMIT, Northern Alberta Institute of Technology(NAIT)
+
+aiming to graduate and use the skills and knowledge I learned in my program to contribute in the working world.
+
+I enjoy designing and coding websites for myself and others with programs like VS code. 
+
+While I have learned a lot during my 1st year at NAIT, I am still open for more knowledge and excited to further improve my skills.
+
 <!--
 **Electronic-than/Electronic-than** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
